@@ -59,3 +59,5 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,grazie
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hub.docker.com
