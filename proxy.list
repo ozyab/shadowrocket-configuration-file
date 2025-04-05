@@ -62,3 +62,9 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-KEYWORD,grazie
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,x.com
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
